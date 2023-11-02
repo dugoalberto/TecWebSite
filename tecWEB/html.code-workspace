@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "html",
+			"path": "../html"
+		},
+		{
+			"name": "pinguini tattici nucleari",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "pinguini tattici nucleari"
+	}
+}
