@@ -1,3 +1,0 @@
-# sample .actrc file
---secret-file .env
--j release
